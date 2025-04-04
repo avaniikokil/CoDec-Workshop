@@ -1,0 +1,4 @@
+provide solutions to these challenges? Explain at least four DevOps practices that add value in this context.
+
+Write any five agile principles and provide a description of each. How will you apply these principles when you develop a bus ticket reservation system for a state transport corporation?
+

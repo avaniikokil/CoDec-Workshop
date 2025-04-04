@@ -1,4 +1,15 @@
-provide solutions to these challenges? Explain at least four DevOps practices that add value in this context.
+Git is a version control system.
+GitHub is a platform for hosting Git repositories.
 
-Write any five agile principles and provide a description of each. How will you apply these principles when you develop a bus ticket reservation system for a state transport corporation?
+Main concepts:
+- Repository
+- Commit
+- Push / Pull
+- Branch
 
+# Common Git Commands
+
+- git init — Initialize a local Git repo
+- git add . — Stage all changes
+- git commit -m "message" — Save a snapshot
+- git push — Upload changes to GitHub
